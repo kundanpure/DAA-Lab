@@ -1,0 +1,3 @@
+GCD of 8 and 12 is 4
+GCD of 20 and 40 is 20
+GCD of 45 and 81 is 9
